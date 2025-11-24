@@ -22,7 +22,7 @@ The script automatically validates the presence of these files before execution.
 
 ## ⚙️ How to Use
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository(Sample)
 
 ```bash
 git clone https://github.com/your-username/differential-gene-expression.git
